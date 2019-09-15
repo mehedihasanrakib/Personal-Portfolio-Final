@@ -1,0 +1,553 @@
+@media(max-width: 1199px){
+
+
+	.social a ul{
+	
+	padding: 15px ;
+	 margin-top: 10px;
+     margin-bottom: 15px;
+}
+.social a ul li{
+font-size: x-large;
+    font-weight: bold;
+    line-height: 2;
+     padding: 0 15px;
+
+
+ }
+
+     .social a ul li i{
+	font-size: 2.5em;
+	 line-height: 1;
+	 
+
+}
+@media(max-width: 991px){
+	.navbar-nav li{
+		text-align: right;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+.navbar-dark .navbar-nav .nav-link::before {
+   
+    background-color: transparent;
+}
+.aboutme-section .row{
+	align-items: center;
+}
+.heading span{
+	font-size: 70px;
+	left: 0;
+}
+.heading h1{
+	font-size: 30px;
+}
+.skill-section .heading h1 {
+    font-size: 30px;
+}
+.skill-section .heading span{
+    font-size: 55px;
+    width: 100%;
+    text-align: center;
+}
+.resume .heading h1{
+	font-size: 30px;
+}
+.resume .heading span{
+	font-size: 50px;
+    width: 100%;
+    text-align: center;
+}
+.resume-content p{
+	
+	max-width: 280px;
+
+	
+	
+}
+.work ul li a {
+    
+    font-size: 16px;
+
+}
+.question h1 {
+   
+    font-size: 30px;}
+
+  .question h2 {
+  	 font-size: 30px;}
+.question a {
+    font-size: 14px;
+padding: 10px 15px;
+display: inline-block;
+
+}
+
+.social a ul{
+	
+	padding: 10px ;
+}
+.social a ul li{
+font-size: large;
+    font-weight: bold;
+    line-height: 2;
+     padding: 0 10px;}
+
+     .social a ul li i{
+	font-size: 2.5em;
+	 line-height: 1;
+	
+}
+.footer-content h6{
+	color: white;
+	font-size: 14px;
+ }
+.aboutme-img {
+    margin-top: 60px;
+}
+}
+
+
+
+@media(max-width: 767px){
+	.banner-content h1 {
+   font-size: 35px;
+}
+.banner-content p {
+    font-size: 13px;
+    
+    margin: 20px auto;
+    line-height: 1.6;}
+    .btn-custom {
+   
+    
+    font-size: 12px;
+   
+    padding-left: 13px;
+    padding-right: 13px;
+   }
+   .btn-custom-reverse{
+   	  font-size: 12px;
+   
+    padding-left: 13px;
+    padding-right: 13px;
+   }
+   .aboutme-section .row{
+	justify-content: center;
+}
+   .heading span{
+		right: 0;
+		font-size: 55px;
+	
+	}
+.heading h1{
+	font-size: 25px;
+}
+
+.aboutme-section {
+    padding: 50px 0;
+}
+.aboutme-img img {
+    margin-bottom: 30px;
+}
+
+.aboutme-content p{
+	text-align: center;
+}
+.skill-section .heading h1 {
+    font-size: 30px;
+}
+.skill-section .heading span{
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.resume .heading h1{
+	font-size: 30px;
+}
+.resume .heading span{
+	font-size: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.skill{
+	margin-bottom: 30px;
+}
+.resume h5{
+	margin-top: 30px;
+}
+
+.question h1 {
+   
+    font-size: 20px;}
+
+  .question h2 {
+  	 font-size: 20px;}
+
+.question a{
+	font-size: 10px;
+	
+	padding: 10px ;}
+
+.social a ul{
+	
+	padding: 6px ;
+}
+.social a ul li{
+font-size: smaller;
+    font-weight: bold;
+    line-height: 2;
+     padding: 0 6px;}
+
+     .social a ul li i{
+	font-size: 2.5em;
+	 line-height: 1;
+	
+}
+.footer-content h6{
+	color: white;
+	font-size: 13px;
+}
+.aboutme-img {
+    margin-top: 60px;
+}
+
+
+}
+@media(max-width: 575px){
+	.social-link{
+		display: none;
+	}
+
+	.skill-section .heading h1 {
+    font-size: 20px;
+}
+.skill-section .heading span{
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+.resume .heading h1{
+	font-size: 20px;
+}
+.resume .heading span{
+	font-size: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+.work .heading h1{
+	font-size: 20px;
+}
+.work .heading span{
+	font-size: 40px;
+    width: 100%;
+    text-align: center
+}
+.resume-box::before, .resume-box::after{
+	content: none;
+}
+
+.resume-content{
+	text-align: center;
+}
+.resume-content p{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.resume h5{
+	text-align: center;
+}
+.work ul li a {
+    
+    font-size: 14px;
+
+}
+
+
+.work ul li {
+    margin: 0 5px;
+}
+.question h1 {
+   
+    font-size: 28px;
+    text-align: center;
+}
+
+  .question h2 {
+  	
+  	text-align: center;
+  	font-size: 28px;
+  	 
+  	}
+.question a {
+    font-size: 10px;
+padding: 5px ;
+margin-top: 15px;
+display: block;
+text-align: center;
+border-bottom-right-radius: 10px;
+
+
+}
+
+
+
+
+
+.contact .form-btn-custom{
+	border-bottom-right-radius: 15px !important;
+	border: 2px solid #40afcc;
+	border-radius: 0;
+	color: white;
+	text-transform: uppercase;
+	font-size: 12px;
+	background-color:#40afcc;
+	
+	padding: 6px 10px;
+	
+	transition: 0.4s ease;
+	text-align: center;
+	
+
+}
+
+
+
+.contact .heading span{
+	width: 100%;
+	left:0;
+	text-align: center;
+	font-size: 40px;
+}
+
+.contact .heading h1{
+	font-size: 20px;
+}
+
+.social a ul li{
+font-size: small;
+    font-weight: bold;
+    line-height: 1.7;
+     padding: 0 4px;
+
+
+ }
+
+     .social a ul li i{
+	font-size: 2em;
+	 line-height: 1;
+	 
+	
+}
+
+skill-section .heading h1{
+font-size: 1.5em;
+}
+
+.footer-content h6{
+	
+	font-size: 12px;
+}
+@media(max-width: 455px){
+	
+
+.question h1 {
+   
+    font-size: 20px;
+    text-align: center;
+}
+
+  .question h2 {
+  	margin-left: 10px;
+  	text-align: center;
+  	font-size: 20px;
+  	 
+  	}
+.question a {
+    font-size: 12px;
+padding: 2px 6px;
+margin-top: 15px;
+display: block;
+
+}
+.skill-section .heading h1 {
+    font-size: 20px;
+}
+.skill-section .heading span{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.resume .heading h1{
+	font-size: 20px;
+}
+.resume .heading span{
+	font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+.work .heading h1{
+	font-size: 20px;
+}
+.work .heading span{
+	font-size: 30px;
+    width: 100%;
+    text-align: center
+}
+
+}
+
+@media(max-width: 495px){
+	.work ul li a {
+    font-size: 10px;
+}
+
+.work ul li {
+    margin: 0 ;
+}
+}
+
+@media(max-width: 351px){
+
+	
+
+.question h1 {
+   
+    font-size: 15px;
+    text-align: center;
+}
+
+  .question h2 {
+  	
+  	text-align: center;
+  	font-size: 15px;
+  	 
+  	}
+.question a {
+    font-size: 8px;
+padding: 15px ;
+margin-top: 15px;
+
+}
+
+.banner-content h1{
+	
+	font-weight: 700;
+	font-size: 1.5em;
+
+}
+.banner-content span{
+	
+	font-weight: 300;
+}
+.banner-content p{
+	font-size: 10px;
+	
+	
+	line-height: 1.8;
+}
+
+.btn-custom{
+	
+	font-size: 10px;
+	
+	padding-left: 10px;
+	padding-right: 10px;}
+.btn-custom-reverse{
+
+	font-size: 10px;
+	
+	padding-left: 10px;
+	padding-right: 10px;}
+
+	.skill-section .heading h1 {
+    font-size: 16px;
+}
+.skill-section .heading span{
+    font-size: 28px;
+    width: 100%;
+    text-align: center;
+}
+
+.resume .heading h1{
+	font-size: 16px;
+}
+.resume .heading span{
+	font-size: 28px;
+    width: 100%;
+    text-align: center;
+}
+
+.work .heading h1{
+	font-size: 16px;
+}
+.work .heading span{
+	font-size: 28px;
+    width: 100%;
+    text-align: center
+}
+
+.contact .heading span{
+	
+	font-size: 28px;
+}
+
+.contact .heading h1{
+	font-size: 16px;
+}
+
+.work ul li a {
+    font-size: 8px;
+     padding: 4px 8px;
+}
+
+.work ul li {
+    margin: 0 ;
+}
+	
+}
+
+@media(max-width: 320px){
+	.work ul li a {
+    font-size: 10px;
+    padding: 2px 6px;
+}
+
+.work ul li {
+    margin: 0 ;
+}
+.question h1{
+	
+	font-size: 18px;
+	
+	
+}
+.question h2{
+	
+	font-size: 18px;
+	
+	margin: 0;
+	text-transform: uppercase;
+	line-height: 1;
+}
+.question a{
+	font-size: 10px;
+	
+	padding: 3px 8px ;
+margin-top: 15px;
+
+}
+}
